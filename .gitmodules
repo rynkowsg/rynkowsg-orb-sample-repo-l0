@@ -1,0 +1,4 @@
+[submodule "sample-repo-l1"]
+	path = sample-repo-l1
+	url = https://github.com/rynkowsg/rynkowsg-orb-sample-repo-l1.git
+	branch = master
